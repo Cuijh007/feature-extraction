@@ -1,10 +1,7 @@
 
 /*
- * This program is only used to show a portion of my work to Edinburgh (EPCC)
  * The feature process is relatively independent. wav is usually used as input data. show init wav_splitted for 0.
  * and the general C notation makes it have good cross-platform and cross-machine compatibility.
- *
- * High Performance Computing, this is for you!!!
  *
  * Author:   Jiahao Cui
  * UUN:      S2602811
